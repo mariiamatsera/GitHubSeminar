@@ -16,3 +16,5 @@ _git checkout master – вернуться к актуальному состо
 > git branch - посмотреть список веток в репозитории 
 > git log --graph - показ древа
 > git log --oneline - коротенький журнал 
+
+>git branch -d - удалить ветку
